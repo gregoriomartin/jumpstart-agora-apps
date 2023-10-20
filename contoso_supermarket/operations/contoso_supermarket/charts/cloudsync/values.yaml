@@ -1,7 +1,0 @@
-postgres:
-  username: "postgres"
-  database: "contoso"
-
-cosmos:
-  container: "Orders"
-  database: "Orders" 
